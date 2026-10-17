@@ -61,17 +61,25 @@ A cartographer's most important tool is a graphic design software
 
 ### Recieve data from scientific team
 
+TODO: flow from sciency data, changing hands to designer
+
 --
 
 ### Do basic filtering, cropping or similar in a GIS tool
+
+TODO: flowchart representing basic manipulations
 
 --
 
 ### Export to SVG or AIX file
 
+TODO: flowchart representing exporting GIS file type to vector graphics file type
+
 --
 
 ### Style into a completed map in Illustrator
+
+TODO: flowchart representing adding type, and making manual adjustments in vector graphics software.
 
 ---
 
@@ -81,7 +89,9 @@ JupyterGIS is more than good enough today to cover the needs of the average cart
 
 --
 
-With tools like CryoCloud and similar, the scientists that cartographers collaborate with are already natively working in JupyterHub environments. 
+With tools like StratusGeo and similar, the scientists that cartographers collaborate with are already natively working in JupyterHub environments.
+
+TODO: add in StratusGeo (cryocloud) graphics
 
 --
 
@@ -137,13 +147,17 @@ Here, those special stylings come in handy. I'll use the text on path tool to la
 
 Then, I'll add some typography and styling.
 
---
+---
 
 Lastly, the cool part. I can load this svg into Light Burn...
+
+TODO: add pic of lightburn
 
 --
 
 And laser cut our map into keychains for you all to take home with you today!
+
+TODO: add pic of me in front of laser
 
 ---
 
@@ -163,3 +177,4 @@ And laser cut our map into keychains for you all to take home with you today!
 ## Questions or Feedback?
 
 insert logos+qrcodes/links here
+TODO: insert sessionize qr code, qr code to geojupyter, qr code to ipyd3geo, QMSS logo, GSAS logo, Geojupyter logo
