@@ -6,7 +6,50 @@ Benjamin Szeghy
 
 ---
 
-## What is Geojupyter
+## What is GeoJupyter
+
+<div style="display: flex; gap: 1em; align-items: center; font-size: 0.65em; text-align: left;">
+<div style="flex: 3;">
+
+GeoJupyter is an open and collaborative community-driven effort to reimagine geospatial interactive computing experiences for education, research, and industry.
+
+We aim to combine the approachability and playfulness of desktop GIS tools, the flexibility and reproducibility of coding-driven GIS methods, and the collaborative and storytelling power of Jupyter to enable more researchers, educators, and learners to confidently engage with geospatial data.
+
+</div>
+<div style="flex: 1; text-align: center;">
+<img src="media/geojupyter_logo.png" alt="GeoJupyter logo" style="height: 170px; margin: 0;">
+<p style="font-size: 0.5em; margin: 0;">Logo by Isabel Paredes</p>
+<img src="media/qr_geojupyter.svg" alt="QR code for geojupyter.org" style="height: 150px; margin: 0.5em 0 0;">
+<p style="font-size: 0.6em; margin: 0;">geojupyter.org</p>
+</div>
+</div>
+
+--
+
+## JupyterGIS
+
+<div style="display: flex; gap: 1em; align-items: center; font-size: 0.45em; text-align: left;">
+<div style="flex: 3;">
+
+JupyterGIS is an in-browser, collaborative Geographical Information System (GIS). It is built on top of Project Jupyter but independently useable.
+
+As flagship project of the open GeoJupyter community it aims to enable organizations, researchers, students, anyone interested to easily explore, use and work with geospatial data.
+
+- Real-time collaboration
+- QGIS interoperability
+- Python API
+- Many data formats
+- Grammar-driven symbology
+- Storymaps
+- AI skills
+
+</div>
+<div style="flex: 2; text-align: center;">
+<img src="media/jupytergis.png" alt="JupyterGIS application" style="margin: 0;">
+<img src="media/qr_jupytergis.svg" alt="QR code for jupytergis.readthedocs.io" style="height: 150px; margin: 0.5em 0 0;">
+<p style="margin: 0;">jupytergis.readthedocs.io</p>
+</div>
+</div>
 
 ---
 
@@ -50,7 +93,7 @@ With tools like CryoCloud and similar, the scientists that cartographers collabo
 
 ## The workflow
 
-start in CryoCloud
+start in StratusGeo
 
 --
 
