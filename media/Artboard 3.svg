@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 720 255">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2e3440;
+        font-size: 15px;
+      }
+
+      .cls-1, .cls-2 {
+        font-family: Calibri-Bold, Calibri;
+        font-weight: 700;
+      }
+
+      .cls-3, .cls-2 {
+        fill: #7b5ea7;
+      }
+
+      .cls-4 {
+        stroke: #9aa3af;
+        stroke-width: 2.25px;
+      }
+
+      .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13 {
+        fill: none;
+      }
+
+      .cls-14 {
+        letter-spacing: .28em;
+      }
+
+      .cls-15 {
+        fill: #fff;
+      }
+
+      .cls-16 {
+        fill: #6b7280;
+        font-family: Calibri, Calibri;
+      }
+
+      .cls-16, .cls-2 {
+        font-size: 10.5px;
+      }
+
+      .cls-6, .cls-9, .cls-11 {
+        stroke: #2e3440;
+      }
+
+      .cls-6, .cls-10 {
+        stroke-width: 1.5px;
+      }
+
+      .cls-17 {
+        letter-spacing: .24em;
+      }
+
+      .cls-18 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-19 {
+        fill: #ede7f5;
+      }
+
+      .cls-20 {
+        isolation: isolate;
+      }
+
+      .cls-21 {
+        fill: #b9a6d6;
+      }
+
+      .cls-7 {
+        stroke-width: 1.12px;
+      }
+
+      .cls-7, .cls-8, .cls-10, .cls-13 {
+        stroke: #7b5ea7;
+      }
+
+      .cls-22 {
+        letter-spacing: .28em;
+      }
+
+      .cls-8 {
+        stroke-width: 4.5px;
+      }
+
+      .cls-8, .cls-9, .cls-12 {
+        stroke-linejoin: round;
+      }
+
+      .cls-8, .cls-11 {
+        stroke-linecap: round;
+      }
+
+      .cls-9, .cls-13 {
+        stroke-width: 3px;
+      }
+
+      .cls-23 {
+        fill: #9aa3af;
+      }
+
+      .cls-24 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-11 {
+        stroke-width: 3.75px;
+      }
+
+      .cls-25 {
+        fill: #d6cbe8;
+      }
+
+      .cls-12 {
+        stroke: #5a4282;
+        stroke-width: 1.88px;
+      }
+
+      .cls-26 {
+        letter-spacing: 0em;
+      }
+
+      .cls-27 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-5" width="720" height="255"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-5" x="289.2" y="120.75" width="13.5" height="13.5"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <rect class="cls-5" x="529.2" y="120.75" width="13.5" height="13.5"/>
+    </clipPath>
+  </defs>
+  <g class="cls-20">
+    <g class="cls-27">
+      <path class="cls-19" d="M85.5,75h69c9.94,0,18,9.94,18,18v69c0,9.94-8.06,18-18,18h-69c-9.94,0-18-9.94-18-18v-69c0-9.94,8.06-18,18-18Z"/>
+      <path class="cls-10" d="M85.5,75h69c9.94,0,18,9.94,18,18v69c0,9.94-8.06,18-18,18h-69c-9.94,0-18-9.94-18-18v-69c0-9.94,8.06-18,18-18Z"/>
+      <path class="cls-19" d="M325.5,75h69c9.94,0,18,9.94,18,18v69c0,9.94-8.06,18-18,18h-69c-9.94,0-18-9.94-18-18v-69c0-9.94,8.06-18,18-18Z"/>
+      <path class="cls-10" d="M325.5,75h69c9.94,0,18,9.94,18,18v69c0,9.94-8.06,18-18,18h-69c-9.94,0-18-9.94-18-18v-69c0-9.94,8.06-18,18-18Z"/>
+      <path class="cls-19" d="M565.5,75h69c9.94,0,18,9.94,18,18v69c0,9.94-8.06,18-18,18h-69c-9.94,0-18-9.94-18-18v-69c0-9.94,8.06-18,18-18Z"/>
+      <path class="cls-10" d="M565.5,75h69c9.94,0,18,9.94,18,18v69c0,9.94-8.06,18-18,18h-69c-9.94,0-18-9.94-18-18v-69c0-9.94,8.06-18,18-18Z"/>
+      <line class="cls-4" x1="180" y1="127.5" x2="300" y2="127.5"/>
+      <g class="cls-18">
+        <polygon class="cls-23" points="289.2 120.75 302.7 127.5 289.2 134.25 289.2 120.75"/>
+      </g>
+      <line class="cls-4" x1="420" y1="127.5" x2="540" y2="127.5"/>
+      <g class="cls-24">
+        <polygon class="cls-23" points="529.2 120.75 542.7 127.5 529.2 134.25 529.2 120.75"/>
+      </g>
+      <polygon class="cls-25" points="82.5 147 120 130.5 157.5 147 120 163.5 82.5 147"/>
+      <polygon class="cls-12" points="82.5 147 120 130.5 157.5 147 120 163.5 82.5 147"/>
+      <polygon class="cls-21" points="82.5 127.5 120 111 157.5 127.5 120 144 82.5 127.5"/>
+      <polygon class="cls-12" points="82.5 127.5 120 111 157.5 127.5 120 144 82.5 127.5"/>
+      <polygon class="cls-3" points="82.5 108 120 91.5 157.5 108 120 124.5 82.5 108"/>
+      <polygon class="cls-12" points="82.5 108 120 91.5 157.5 108 120 124.5 82.5 108"/>
+      <path class="cls-11" d="M352.5,105h-16.5c-4,0-6,2-6,6v40.5c0,4,2,6,6,6h40.5c4,0,6-2,6-6v-16.5"/>
+      <path class="cls-8" d="M373.5,96h18v18M358.5,129l33-33"/>
+      <polygon class="cls-15" points="571.5 82.5 613.5 82.5 631.5 100.5 631.5 172.5 571.5 172.5 571.5 82.5"/>
+      <polygon class="cls-9" points="571.5 82.5 613.5 82.5 631.5 100.5 631.5 172.5 571.5 172.5 571.5 82.5"/>
+      <polyline class="cls-9" points="613.5 82.5 613.5 100.5 631.5 100.5"/>
+      <text class="cls-2" transform="translate(579 102)"><tspan x="0" y="0">SVG</tspan></text>
+      <path class="cls-13" d="M582,157.5c6-37.5,27-7.5,39-45"/>
+      <line x1="582" y1="157.5" x2="585.75" y2="135"/>
+      <line class="cls-7" x1="582" y1="157.5" x2="585.75" y2="135"/>
+      <line x1="621" y1="112.5" x2="613.5" y2="135"/>
+      <line class="cls-7" x1="621" y1="112.5" x2="613.5" y2="135"/>
+      <path class="cls-3" d="M588.38,135c0,3.5-5.25,3.5-5.25,0s5.25-3.5,5.25,0Z"/>
+      <path class="cls-3" d="M616.12,135c0,3.5-5.25,3.5-5.25,0s5.25-3.5,5.25,0Z"/>
+      <rect class="cls-15" x="579" y="154.5" width="6" height="6"/>
+      <rect class="cls-6" x="579" y="154.5" width="6" height="6"/>
+      <rect class="cls-15" x="618" y="109.5" width="6" height="6"/>
+      <rect class="cls-6" x="618" y="109.5" width="6" height="6"/>
+      <text class="cls-1" transform="translate(79.32 204)"><tspan x="0" y="0">GI</tspan><tspan class="cls-17" x="13.56" y="0">S</tspan><tspan class="cls-26" x="24.2" y="0">project</tspan></text>
+      <text class="cls-16" transform="translate(61.3 222)"><tspan x="0" y="0">scientific/geospatial formats</tspan></text>
+      <text class="cls-1" transform="translate(335.6 204)"><tspan x="0" y="0">Export</tspan></text>
+      <text class="cls-1" transform="translate(561.93 204)"><tspan x="0" y="0">Graphic file</tspan></text>
+      <text class="cls-16" transform="translate(561.25 222)"><tspan x="0" y="0">.sv</tspan><tspan class="cls-22" x="11.5" y="0">g·</tspan><tspan x="24.99" y="0">.aix </tspan><tspan class="cls-14" x="42" y="0">·</tspan><tspan x="47.61" y="0">.png</tspan></text>
+      <text class="cls-16" transform="translate(295.16 222)"><tspan x="0" y="0">convert to a design-focused format</tspan></text>
+    </g>
+  </g>
+</svg>

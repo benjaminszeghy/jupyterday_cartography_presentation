@@ -55,31 +55,42 @@ As flagship project of the open GeoJupyter community it aims to enable organizat
 
 ## A cartographers workflow
 
+<img src='media/illustrator_flipbook.png' style="max-height: 450px; margin: 0;">
+
 A cartographer's most important tool is a graphic design software
 
 --
 
 ### Recieve data from scientific team
 
-TODO: flow from sciency data, changing hands to designer
+<img src='media/Artboard 1.svg'>
 
 --
 
 ### Do basic filtering, cropping or similar in a GIS tool
 
-TODO: flowchart representing basic manipulations
+<img src='media/Artboard 2.svg'>
 
 --
 
 ### Export to SVG or AIX file
 
-TODO: flowchart representing exporting GIS file type to vector graphics file type
+<img src='media/Artboard 3.svg'>
 
 --
 
 ### Style into a completed map in Illustrator
 
-TODO: flowchart representing adding type, and making manual adjustments in vector graphics software.
+<img src='media/Artboard 4.svg'>
+
+--
+
+<div style="display: flex; gap: 1em; align-items: center; justify-content: center;">
+<img src='media/bay_layout.png' style="max-height: 500px; max-width: 48%; margin: 0; object-fit: contain;">
+<img src='media/before-you-are-here-stlt-wilmott-2024.jpg' style="max-height: 500px; max-width: 48%; margin: 0; object-fit: contain;">
+</div>
+
+*Before You Are Here*, Prof. Clancy Wilmott
 
 ---
 
@@ -121,6 +132,17 @@ add back to JGIS and remove the raster.
 
 ## Introducing ipyd3geo
 A cartographers bridge between Jupyter and Vector Graphics editing software
+
+<div style="display: flex; gap: 1em; align-items: center;">
+<div style="flex: 4; text-align: center;">
+<img src="media/ipyd3geo_docs.png" alt="ipyd3geo documentation front page" style="max-height: 420px; margin: 0;">
+<p style="font-size: 0.45em; margin: 0;">ipyd3geo.readthedocs.io</p>
+</div>
+<div style="flex: 1; text-align: center;">
+<img src="media/qr_ipyd3geo.svg" alt="QR code for the ipyd3geo GitHub repository" style="height: 150px; margin: 0;">
+<p style="font-size: 0.45em; margin: 0;">github.com/geojupyter/prototype-ipyd3geo</p>
+</div>
+</div>
 
 --
 

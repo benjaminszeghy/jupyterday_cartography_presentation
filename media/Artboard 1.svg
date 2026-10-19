@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 720 255">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: .25;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+        fill: #2a9d8f;
+      }
+
+      .cls-9 {
+        font-family: Calibri-Bold, Calibri;
+        font-size: 15px;
+        font-weight: 700;
+      }
+
+      .cls-9, .cls-10 {
+        fill: #2e3440;
+      }
+
+      .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19 {
+        fill: none;
+      }
+
+      .cls-11, .cls-20, .cls-7 {
+        opacity: .5;
+      }
+
+      .cls-11, .cls-15 {
+        stroke-width: 1.88px;
+      }
+
+      .cls-11, .cls-15, .cls-18 {
+        stroke: #2a9d8f;
+      }
+
+      .cls-12, .cls-14, .cls-16 {
+        stroke-width: 2.25px;
+      }
+
+      .cls-12, .cls-16 {
+        stroke: #9aa3af;
+      }
+
+      .cls-2 {
+        opacity: .2;
+      }
+
+      .cls-3 {
+        opacity: .4;
+      }
+
+      .cls-21, .cls-20, .cls-22 {
+        fill: #fff;
+      }
+
+      .cls-23 {
+        letter-spacing: 0em;
+      }
+
+      .cls-24 {
+        fill: #6b7280;
+        font-family: Calibri, Calibri;
+      }
+
+      .cls-24, .cls-5 {
+        font-size: 10.5px;
+      }
+
+      .cls-25 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-26 {
+        letter-spacing: .24em;
+      }
+
+      .cls-27 {
+        isolation: isolate;
+      }
+
+      .cls-14, .cls-17, .cls-19 {
+        stroke: #2e3440;
+      }
+
+      .cls-15, .cls-22 {
+        opacity: .75;
+      }
+
+      .cls-5 {
+        font-family: Calibri-Italic, Calibri;
+        font-style: italic;
+      }
+
+      .cls-6 {
+        opacity: .6;
+      }
+
+      .cls-16 {
+        stroke-dasharray: 6 6;
+      }
+
+      .cls-17 {
+        stroke-linejoin: round;
+      }
+
+      .cls-17, .cls-19 {
+        stroke-width: 3px;
+      }
+
+      .cls-28 {
+        fill: #9aa3af;
+      }
+
+      .cls-29 {
+        letter-spacing: .28em;
+      }
+
+      .cls-30 {
+        fill: #dff2ef;
+      }
+
+      .cls-18 {
+        stroke-width: 1.5px;
+      }
+
+      .cls-19 {
+        stroke-linecap: round;
+      }
+
+      .cls-31 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-8 {
+        opacity: .9;
+      }
+
+      .cls-32 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-13" width="720" height="255"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-13" x="289.2" y="120.75" width="13.5" height="13.5"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <rect class="cls-13" x="529.2" y="120.75" width="13.5" height="13.5"/>
+    </clipPath>
+  </defs>
+  <g class="cls-27">
+    <g class="cls-32">
+      <g class="cls-27">
+        <path class="cls-30" d="M85.5,75h69c9.94,0,18,9.94,18,18v69c0,9.94-8.06,18-18,18h-69c-9.94,0-18-9.94-18-18v-69c0-9.94,8.06-18,18-18Z"/>
+        <path class="cls-18" d="M85.5,75h69c9.94,0,18,9.94,18,18v69c0,9.94-8.06,18-18,18h-69c-9.94,0-18-9.94-18-18v-69c0-9.94,8.06-18,18-18Z"/>
+        <path class="cls-30" d="M325.5,75h69c9.94,0,18,9.94,18,18v69c0,9.94-8.06,18-18,18h-69c-9.94,0-18-9.94-18-18v-69c0-9.94,8.06-18,18-18Z"/>
+        <path class="cls-18" d="M325.5,75h69c9.94,0,18,9.94,18,18v69c0,9.94-8.06,18-18,18h-69c-9.94,0-18-9.94-18-18v-69c0-9.94,8.06-18,18-18Z"/>
+        <path class="cls-30" d="M565.5,75h69c9.94,0,18,9.94,18,18v69c0,9.94-8.06,18-18,18h-69c-9.94,0-18-9.94-18-18v-69c0-9.94,8.06-18,18-18Z"/>
+        <path class="cls-18" d="M565.5,75h69c9.94,0,18,9.94,18,18v69c0,9.94-8.06,18-18,18h-69c-9.94,0-18-9.94-18-18v-69c0-9.94,8.06-18,18-18Z"/>
+        <line class="cls-12" x1="180" y1="127.5" x2="300" y2="127.5"/>
+        <g class="cls-25">
+          <polygon class="cls-28" points="289.2 120.75 302.7 127.5 289.2 134.25 289.2 120.75"/>
+        </g>
+        <line class="cls-16" x1="420" y1="127.5" x2="540" y2="127.5"/>
+        <g class="cls-31">
+          <polygon class="cls-28" points="529.2 120.75 542.7 127.5 529.2 134.25 529.2 120.75"/>
+        </g>
+        <text class="cls-5" transform="translate(457.36 116.25)"><tspan x="0" y="0">hand-off</tspan></text>
+        <path class="cls-4" d="M99,136.5h42l6.75,13.5c2,4.5.5,6.75-4.5,6.75h-46.5c-5,0-6.5-2.25-4.5-6.75l6.75-13.5Z"/>
+        <path class="cls-17" d="M111,91.5v21l-19.5,39c-2.5,5-1,7.5,4.5,7.5h48c5.5,0,7-2.5,4.5-7.5l-19.5-39v-21"/>
+        <line class="cls-19" x1="105" y1="91.5" x2="135" y2="91.5"/>
+        <path class="cls-4" d="M117,126c0,4-6,4-6,0s6-4,6,0Z"/>
+        <path class="cls-4" d="M126.75,118.5c0,3-4.5,3-4.5,0s4.5-3,4.5,0Z"/>
+        <path class="cls-20" d="M346.5,84h39c2.48,0,4.5,2.48,4.5,4.5v51c0,2.48-2.02,4.5-4.5,4.5h-39c-2.48,0-4.5-2.48-4.5-4.5v-51c0-2.48,2.02-4.5,4.5-4.5Z"/>
+        <path class="cls-11" d="M346.5,84h39c2.48,0,4.5,2.48,4.5,4.5v51c0,2.48-2.02,4.5-4.5,4.5h-39c-2.48,0-4.5-2.48-4.5-4.5v-51c0-2.48,2.02-4.5,4.5-4.5Z"/>
+        <path class="cls-22" d="M340.5,91.5h39c2.48,0,4.5,2.48,4.5,4.5v51c0,2.48-2.02,4.5-4.5,4.5h-39c-2.48,0-4.5-2.48-4.5-4.5v-51c0-2.48,2.02-4.5,4.5-4.5Z"/>
+        <path class="cls-15" d="M340.5,91.5h39c2.48,0,4.5,2.48,4.5,4.5v51c0,2.48-2.02,4.5-4.5,4.5h-39c-2.48,0-4.5-2.48-4.5-4.5v-51c0-2.48,2.02-4.5,4.5-4.5Z"/>
+        <path class="cls-21" d="M334.5,99h39c2.48,0,4.5,2.48,4.5,4.5v51c0,2.48-2.02,4.5-4.5,4.5h-39c-2.48,0-4.5-2.48-4.5-4.5v-51c0-2.48,2.02-4.5,4.5-4.5Z"/>
+        <path class="cls-14" d="M334.5,99h39c2.48,0,4.5,2.48,4.5,4.5v51c0,2.48-2.02,4.5-4.5,4.5h-39c-2.48,0-4.5-2.48-4.5-4.5v-51c0-2.48,2.02-4.5,4.5-4.5Z"/>
+        <rect class="cls-1" x="338.25" y="111" width="10.5" height="10.5"/>
+        <rect class="cls-6" x="350.25" y="111" width="10.5" height="10.5"/>
+        <rect class="cls-8" x="362.25" y="111" width="10.5" height="10.5"/>
+        <rect class="cls-3" x="338.25" y="123" width="10.5" height="10.5"/>
+        <rect class="cls-8" x="350.25" y="123" width="10.5" height="10.5"/>
+        <rect class="cls-6" x="362.25" y="123" width="10.5" height="10.5"/>
+        <rect class="cls-8" x="338.25" y="135" width="10.5" height="10.5"/>
+        <rect class="cls-7" x="350.25" y="135" width="10.5" height="10.5"/>
+        <rect class="cls-2" x="362.25" y="135" width="10.5" height="10.5"/>
+        <path class="cls-4" d="M585.75,84h28.5c1.24,0,2.25,1.24,2.25,2.25v4.5c0,1.24-1.01,2.25-2.25,2.25h-28.5c-1.24,0-2.25-1.24-2.25-2.25v-4.5c0-1.24,1.01-2.25,2.25-2.25Z"/>
+        <polygon class="cls-21" points="585 96 615 96 625.5 126 600 169.5 574.5 126 585 96"/>
+        <polygon class="cls-17" points="585 96 615 96 625.5 126 600 169.5 574.5 126 585 96"/>
+        <line class="cls-14" x1="600" y1="169.5" x2="600" y2="136.5"/>
+        <path class="cls-10" d="M604.5,130.5c0,6-9,6-9,0s9-6,9,0Z"/>
+        <text class="cls-9" transform="translate(35.27 204)"><tspan x="0" y="0">Scientists and Researchers</tspan></text>
+        <text class="cls-24" transform="translate(41.6 222)"><tspan x="0" y="0">Data collection, analysis, and models</tspan></text>
+        <text class="cls-9" transform="translate(312.55 204)"><tspan x="0" y="0">Ra</tspan><tspan class="cls-26" x="15.85" y="0">w</tspan><tspan x="30.57" y="0">geodata</tspan></text>
+        <text class="cls-24" transform="translate(308.46 222)"><tspan x="0" y="0">CS</tspan><tspan class="cls-29" x="10.42" y="0">V·</tspan><tspan x="24.93" y="0">GeoTIF</tspan><tspan class="cls-29" x="54.9" y="0">F·</tspan><tspan class="cls-23" x="68.28" y="0">SHP</tspan></text>
+        <text class="cls-9" transform="translate(550.42 204)"><tspan x="0" y="0">Cartographer</tspan></text>
+        <text class="cls-24" transform="translate(538.73 222)"><tspan x="0" y="0">visualization, desig</tspan><tspan class="cls-29" x="79.9" y="0">,&amp;</tspan><tspan x="95.58" y="0">layout</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
