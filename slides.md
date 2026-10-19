@@ -184,7 +184,7 @@ Then, I'll add some typography and styling.
 
 ---
 
-Lastly, the cool part. I can load this svg into Light Burn...
+Lastly, the cool part. I can load this svg into LightBurn...
 
 <img src='media/lightburn.jpg' alt = 'map loaded up into a lightburn workstation'>
 
