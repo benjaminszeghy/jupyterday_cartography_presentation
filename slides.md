@@ -102,7 +102,7 @@ JupyterGIS is more than good enough today to cover the needs of the average cart
 
 With tools like StratusGeo and similar, the scientists that cartographers collaborate with are already natively working in JupyterHub environments.
 
-<img src='stratus_logo.png'>
+<img src='media/stratus_logo.png'>
 
 --
 
