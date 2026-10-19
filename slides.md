@@ -117,6 +117,19 @@ use pandas and rasterio to generate topo lines
 
 add back to JGIS and remove the raster.
 
+---
+
+## Introducing ipyd3geo
+A cartographers bridge between Jupyter and Vector Graphics editing software
+
+--
+
+## Benefits of D3 Geo over other JS map renderers
+
+### 2 "party tricks":
+- Best in class projection support
+- Renders maps directly to DOM, so exporting to SVG is super easy
+
 --
 
 use ipyd3geo's "from_jgis()" tool to load the layers
@@ -151,13 +164,13 @@ Then, I'll add some typography and styling.
 
 Lastly, the cool part. I can load this svg into Light Burn...
 
-TODO: add pic of lightburn
+<img src='media/lightburn.jpg' alt = 'map loaded up into a lightburn workstation'>
 
 --
 
 And laser cut our map into keychains for you all to take home with you today!
 
-TODO: add pic of me in front of laser
+<img src='media/laser.jpg'>
 
 ---
 
@@ -170,7 +183,11 @@ TODO: add pic of me in front of laser
 
 - JupyterGIS, especially when paired with JupyterAI, already provides tools that are more than good enough to enable the collaboration. Better yet, it allows cartographers to co-locate with scientific partners that already live on a hub.
 - ipyd3geo, while still in early stages and no garantee of further development, provides an easy bridge between JupyterGIS and graphic design software.
+
+--
+
 - Further, I hope to start a conversation about non-scientific uses for Jupyter at large. What niche places can they find in our community?
+    - Can we find other small missing "bridges" that bring more people into the community?
 
 ---
 
