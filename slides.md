@@ -4,6 +4,10 @@ JupyterDay
 
 Benjamin Szeghy
 
+--
+
+<!-- .slide: data-background-image="media/Jupyter%20Day%20Speaker%20Cards.jpg" data-background-size="cover" -->
+
 ---
 
 ## What is GeoJupyter
