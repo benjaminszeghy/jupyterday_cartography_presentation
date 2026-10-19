@@ -102,7 +102,7 @@ JupyterGIS is more than good enough today to cover the needs of the average cart
 
 With tools like StratusGeo and similar, the scientists that cartographers collaborate with are already natively working in JupyterHub environments.
 
-TODO: add in StratusGeo (cryocloud) graphics
+<img src='stratus_logo.png'>
 
 --
 
@@ -234,4 +234,8 @@ And laser cut our map into keychains for you all to take home with you today!
 <img src="media/geojupyter_logo.png" alt="GeoJupyter logo" style="height: 100px; margin: 0;">
 <img src="media/qmss_logo.svg" alt="Columbia QMSS logo" style="height: 50px; margin: 0;">
 <img src="media/gsas_logo.jpg" alt="Columbia GSAS logo" style="height: 85px; margin: 0;">
+<div style="flex-shrink: 0;">
+<p style="font-size: 0.25em; margin: 0;">Special thanks to:</p>
+<img src="media/dse_logo_dark.svg" alt="Eric and Wendy Schmidt Center for Data Science & Environment at Berkeley logo" style="width: 290px; height: 85px; max-width: none; margin: 0;">
+</div>
 </div>
