@@ -215,5 +215,23 @@ And laser cut our map into keychains for you all to take home with you today!
 
 ## Questions or Feedback?
 
-insert logos+qrcodes/links here
-TODO: insert sessionize qr code, qr code to geojupyter, qr code to ipyd3geo, QMSS logo, GSAS logo, Geojupyter logo
+<div style="display: flex; gap: 1em; justify-content: space-around; align-items: flex-start; text-align: center;">
+<div style="flex: 1;">
+<img src="media/sessionize.png" alt="QR code for the Sessionize feedback page" style="height: 200px; margin: 0;">
+<p style="font-size: 0.45em; margin: 0;">Session feedback</p>
+</div>
+<div style="flex: 1;">
+<img src="media/qr_geojupyter.svg" alt="QR code for geojupyter.org" style="height: 200px; margin: 0;">
+<p style="font-size: 0.45em; margin: 0;">geojupyter.org</p>
+</div>
+<div style="flex: 1;">
+<img src="media/qr_ipyd3geo.svg" alt="QR code for the ipyd3geo GitHub repository" style="height: 200px; margin: 0;">
+<p style="font-size: 0.45em; margin: 0;">github.com/geojupyter/prototype-ipyd3geo</p>
+</div>
+</div>
+
+<div style="display: flex; gap: 1.5em; justify-content: center; align-items: center; margin-top: 1em;">
+<img src="media/geojupyter_logo.png" alt="GeoJupyter logo" style="height: 100px; margin: 0;">
+<img src="media/qmss_logo.svg" alt="Columbia QMSS logo" style="height: 50px; margin: 0;">
+<img src="media/gsas_logo.jpg" alt="Columbia GSAS logo" style="height: 85px; margin: 0;">
+</div>
